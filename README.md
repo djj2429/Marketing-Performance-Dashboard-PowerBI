@@ -82,9 +82,21 @@ This dashboard is suitable for:
 
 ---
 
-## 🔗 Preview
-📎 *Dashboard preview image available in this repository*  
-📈 *Interactive version available upon request*
+---
+
+## 🔗 Dashboard Screenshot
+
+📸 **Marketing Performance Analytics Dashboard – Preview**
+
+👉 View the dashboard screenshot here:  
+https://github.com/djj2429/Marketing-Performance-Dashboard-PowerBI/blob/0cc5f64d0e66d95e41d7812e42102f2b90870f6f/Marketing%20Performance%20Dashboard.png
+
+---
+
+## 👩🏽‍💻 Author
+**Dhwani Jariwala**  
+Data Analyst | BI & Dashboarding  
+
 
 ---
 

@@ -89,7 +89,7 @@ This dashboard is suitable for:
 📸 **Marketing Performance Analytics Dashboard – Preview**
 
 👉 View the dashboard screenshot here:  
-https://github.com/djj2429/Marketing-Performance-Dashboard-PowerBI/blob/0cc5f64d0e66d95e41d7812e42102f2b90870f6f/Marketing%20Performance%20Dashboard.png
+(https://github.com/djj2429/Marketing-Performance-Dashboard-PowerBI/blob/main/Marketing%20Performance%20Dashboard.png)
 
 ---
 
